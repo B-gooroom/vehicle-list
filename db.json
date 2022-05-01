@@ -1,0 +1,318 @@
+{
+  "modelClasses": [
+    {
+      "modelId": 1,
+      "modelName": "더뉴아반떼",
+      "modelType": "준중형",
+      "modelImage": "https://firebasestorage.googleapis.com/v0/b/list-by-gooroom.appspot.com/o/models%2Fthenewanvante_1.png?alt=media&token=8f56f72c-dd3f-423b-9618-df20ee9c915f",
+      "totalDistance": 5000,
+      "modelYear": 2021,
+      "modelPrice": 225000,
+      "discountPercentage": 25,
+      "modelZones": [
+        "서울/경기/인천",
+        "광주"
+      ],
+      "modelTypeTags": [
+        "특가",
+        "인기"
+      ]
+    },
+    {
+      "modelId": 2,
+      "modelName": "올뉴아반떼",
+      "modelType": "준중형",
+      "modelImage": "https://firebasestorage.googleapis.com/v0/b/list-by-gooroom.appspot.com/o/models%2Fallnewavante_2.png?alt=media&token=282f72cd-9b9d-49b8-a56c-f7656320e5cc",
+      "totalDistance": 10000,
+      "modelYear": 2021,
+      "modelPrice": 325000,
+      "discountPercentage": 37,
+      "modelZones": [
+        "광주",
+        "대전"
+      ],
+      "modelTypeTags": [
+        "빠른대여",
+        "인기"
+      ]
+    },
+    {
+      "modelId": 3,
+      "modelName": "아반떼AD",
+      "modelType": "준중형",
+      "modelImage": "https://firebasestorage.googleapis.com/v0/b/list-by-gooroom.appspot.com/o/models%2Favantead_3.png?alt=media&token=690bd897-d21f-4ecc-8d71-a86b9fc8d8bd",
+      "totalDistance": 100000,
+      "modelYear": 2017,
+      "modelPrice": 245000,
+      "discountPercentage": 20,
+      "modelZones": [
+        "서울/경기/인천"
+      ],
+      "modelTypeTags": [
+        "인기"
+      ]
+    },
+    {
+      "modelId": 4,
+      "modelName": "스포티지",
+      "modelType": "SUV",
+      "modelImage": "https://firebasestorage.googleapis.com/v0/b/list-by-gooroom.appspot.com/o/models%2Fsportage_4.png?alt=media&token=2da7ee77-047d-4939-8255-153c99259c81",
+      "totalDistance": 100000,
+      "modelYear": 2017,
+      "modelPrice": 343000,
+      "discountPercentage": 15,
+      "modelZones": [
+        "서울/경기/인천"
+      ],
+      "modelTypeTags": [
+        "특가",
+        "인기"
+      ]
+    },
+    {
+      "modelId": 5,
+      "modelName": "K5",
+      "modelType": "중형/대형",
+      "modelImage": "https://firebasestorage.googleapis.com/v0/b/list-by-gooroom.appspot.com/o/models%2Fk5_5.png?alt=media&token=0cb46e71-5885-40fe-979a-14511fd08531",
+      "totalDistance": 100000,
+      "modelYear": 2017,
+      "modelPrice": 316000,
+      "discountPercentage": 0,
+      "modelZones": [
+        "서울/경기/인천"
+      ],
+      "modelTypeTags": [
+        "인기"
+      ]
+    },
+    {
+      "modelId": 6,
+      "modelName": "K5 (LPG)",
+      "modelType": "중형/대형",
+      "modelImage": "https://firebasestorage.googleapis.com/v0/b/list-by-gooroom.appspot.com/o/models%2Fk5(lpg)_6.png?alt=media&token=d126e60b-3f87-4fe8-9524-7b84caa92bc0",
+      "totalDistance": 100000,
+      "modelYear": 2017,
+      "modelPrice": 342000,
+      "discountPercentage": 10,
+      "modelZones": [
+        "서울/경기/인천"
+      ],
+      "modelTypeTags": [
+
+      ]
+    },
+    {
+      "modelId": 7,
+      "modelName": "카니발 11인승",
+      "modelType": "SUV",
+      "modelImage": "https://firebasestorage.googleapis.com/v0/b/list-by-gooroom.appspot.com/o/models%2Fcarnival11_7.png?alt=media&token=9f94bd41-70f3-46a4-8c70-8d4da1e3c346",
+      "totalDistance": 50000,
+      "modelYear": 2017,
+      "modelPrice": 324000,
+      "discountPercentage": 14,
+      "modelZones": [
+        "서울/경기/인천"
+      ],
+      "modelTypeTags": [
+
+      ]
+    },
+    {
+      "modelId": 8,
+      "modelName": "코나",
+      "modelType": "경형/소형",
+      "modelImage": "https://firebasestorage.googleapis.com/v0/b/list-by-gooroom.appspot.com/o/models%2Fkona_8.png?alt=media&token=c95c4079-1803-471b-9108-6738ebe02536",
+      "totalDistance": 50000,
+      "modelYear": 2019,
+      "modelPrice": 215000,
+      "discountPercentage": 30,
+      "modelZones": [
+        "서울/경기/인천",
+        "대구/경북"
+      ],
+      "modelTypeTags": [
+        "특가"
+      ]
+    },
+    {
+      "modelId": 9,
+      "modelName": "더뉴레이",
+      "modelType": "경형/소형",
+      "modelImage": "https://firebasestorage.googleapis.com/v0/b/list-by-gooroom.appspot.com/o/models%2Fthenewray_9.png?alt=media&token=ef718f09-8e08-4f03-b697-08cc4cce3213",
+      "totalDistance": 10000,
+      "modelYear": 2021,
+      "modelPrice": 198000,
+      "discountPercentage": 15,
+      "modelZones": [
+        "서울/경기/인천",
+        "대전"
+      ],
+      "modelTypeTags": [
+        "인기"
+      ]
+    },
+    {
+      "modelId": 10,
+      "modelName": "싼타페",
+      "modelType": "SUV",
+      "modelImage": "https://firebasestorage.googleapis.com/v0/b/list-by-gooroom.appspot.com/o/models%2Fsantafe_10.png?alt=media&token=2d4eb7af-ec8b-4e54-afeb-b6d7efe3bfb0",
+      "totalDistance": 100000,
+      "modelYear": 2019,
+      "modelPrice": 387000,
+      "discountPercentage": 17,
+      "modelZones": [
+        "서울/경기/인천"
+      ],
+      "modelTypeTags": [
+        "빠른대여",
+        "인기"
+      ]
+    },
+    {
+      "modelId": 11,
+      "modelName": "셀토스",
+      "modelType": "SUV",
+      "modelImage": "https://firebasestorage.googleapis.com/v0/b/list-by-gooroom.appspot.com/o/models%2Fseltos_11.png?alt=media&token=66eb0b56-427d-4d10-8baf-9e4fde48a5db",
+      "totalDistance": 10000,
+      "modelYear": 2021,
+      "modelPrice": 375000,
+      "discountPercentage": 28,
+      "modelZones": [
+        "광주",
+        "서울/경기/인천"
+      ],
+      "modelTypeTags": [
+        "빠른대여",
+        "인기"
+      ]
+    },
+    {
+      "modelId": 12,
+      "modelName": "더뉴K3",
+      "modelType": "준중형",
+      "modelImage": "https://firebasestorage.googleapis.com/v0/b/list-by-gooroom.appspot.com/o/models%2Fthenewk3_12.png?alt=media&token=c2f43f03-ebf9-4f8f-9b60-ec010902d258",
+      "totalDistance": 10000,
+      "modelYear": 2021,
+      "modelPrice": 366000,
+      "discountPercentage": 26,
+      "modelZones": [
+        "광주"
+      ],
+      "modelTypeTags": [
+        "인기"
+      ]
+    },
+    {
+      "modelId": 13,
+      "modelName": "2021 쏘나타DN8",
+      "modelType": "중형/대형",
+      "modelImage": "https://firebasestorage.googleapis.com/v0/b/list-by-gooroom.appspot.com/o/models%2Fthenewk3_12.png?alt=media&token=c2f43f03-ebf9-4f8f-9b60-ec010902d258",
+      "totalDistance": 500,
+      "modelYear": 2021,
+      "modelPrice": 389000,
+      "discountPercentage": 8,
+      "modelZones": [
+        "서울/경기/인천"
+      ],
+      "modelTypeTags": [
+        "신차급"
+      ]
+    },
+    {
+      "modelId": 14,
+      "modelName": "투싼(경유)",
+      "modelType": "SUV",
+      "modelImage": "https://firebasestorage.googleapis.com/v0/b/list-by-gooroom.appspot.com/o/models%2Ftocsan(desil)_14.png?alt=media&token=62a45508-8f6e-4b39-8f4d-96179b0e1423",
+      "totalDistance": 100000,
+      "modelYear": 2017,
+      "modelPrice": 376000,
+      "discountPercentage": 0,
+      "modelZones": [
+        "서울/경기/인천"
+      ],
+      "modelTypeTags": [
+        "특가"
+      ]
+    },
+    {
+      "modelId": 15,
+      "modelName": "쏘나타 뉴라이즈(LPG)",
+      "modelType": "중형/대형",
+      "modelImage": "https://firebasestorage.googleapis.com/v0/b/list-by-gooroom.appspot.com/o/models%2Fsonata(lpg)_15.png?alt=media&token=93878821-81d2-47f6-acc6-50e1d1de7e82",
+      "totalDistance": 50000,
+      "modelYear": 2019,
+      "modelPrice": 346000,
+      "discountPercentage": 12,
+      "modelZones": [
+        "서울/경기/인천"
+      ],
+      "modelTypeTags": [
+
+      ]
+    },
+    {
+      "modelId": 16,
+      "modelName": "G80",
+      "modelType": "중형/대형",
+      "modelImage": "https://firebasestorage.googleapis.com/v0/b/list-by-gooroom.appspot.com/o/models%2Fg80_16.png?alt=media&token=f8180794-737d-4c25-993e-ad204b06af5d",
+      "totalDistance": 50000,
+      "modelYear": 2019,
+      "modelPrice": 567000,
+      "discountPercentage": 25,
+      "modelZones": [
+        "서울/경기/인천"
+      ],
+      "modelTypeTags": [
+        "프리미엄"
+      ]
+    },
+    {
+      "modelId": 17,
+      "modelName": "쏘나타 뉴라이즈",
+      "modelType": "중형/대형",
+      "modelImage": "https://firebasestorage.googleapis.com/v0/b/list-by-gooroom.appspot.com/o/models%2Fsonatanewrise_17.png?alt=media&token=ee3a735e-dda8-48a1-889f-85c7936a9428",
+      "totalDistance": 100000,
+      "modelYear": 2019,
+      "modelPrice": 287000,
+      "discountPercentage": 25,
+      "modelZones": [
+        "서울/경기/인천"
+      ],
+      "modelTypeTags": [
+
+      ]
+    },
+    {
+      "modelId": 18,
+      "modelName": "벤츠 A220",
+      "modelType": "수입",
+      "modelImage": "https://firebasestorage.googleapis.com/v0/b/list-by-gooroom.appspot.com/o/models%2Fbenz(a220)_18.png?alt=media&token=f1876ed0-7d3f-4b12-856c-833cbda3ff45",
+      "totalDistance": 10000,
+      "modelYear": 2019,
+      "modelPrice": 578000,
+      "discountPercentage": 27,
+      "modelZones": [
+        "서울/경기/인천"
+      ],
+      "modelTypeTags": [
+        "프리미엄"
+      ]
+    },
+    {
+      "modelId": 19,
+      "modelName": "카니발 프레스티지 9인승",
+      "modelType": "SUV",
+      "modelImage": "https://firebasestorage.googleapis.com/v0/b/list-by-gooroom.appspot.com/o/models%2Fcarnivalfor9_19.png?alt=media&token=15d6d70f-8ba2-4811-b236-02068276fa5a",
+      "totalDistance": 50000,
+      "modelYear": 2019,
+      "modelPrice": 354000,
+      "discountPercentage": 25,
+      "modelZones": [
+        "부산/창원"
+      ],
+      "modelTypeTags": [
+        "특가"
+      ]
+    }
+  ]
+}
